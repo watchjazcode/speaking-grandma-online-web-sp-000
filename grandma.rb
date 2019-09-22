@@ -7,7 +7,8 @@ def speak_to_grandma(phrase)
   elsif "Hi!"
     return "HUH?! SPEAK UP, SONNY!"
   elsif "WHAT DID YOU EAT TODAY?"
-    return 
+    return "NO, NOT SINCE 1938!"
+  elsif 
 end
 
 # Whatever you say to grandma, she should respond with
