@@ -2,14 +2,19 @@
 def speak_to_grandma(phrase)
   if "I LOVE YOU GRANDMA!"
     return "I LOVE YOU PUMPKIN"
+  end
   elsif "Hi Nana, how are you?"
     return "HUH?! SPEAK UP, SONNY!"
+  end
   elsif "Hi!"
     return "HUH?! SPEAK UP, SONNY!"
+  end
   elsif "WHAT DID YOU EAT TODAY?"
     return "NO, NOT SINCE 1938!"
+  end
   elsif "WHAT?"
     return "NO, NOT SINCE 1938!"
+  end
 end
 
 # Whatever you say to grandma, she should respond with
